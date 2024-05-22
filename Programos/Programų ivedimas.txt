@@ -1,0 +1,3 @@
+Programa "mysql-installer-community-8.0.37.0" instaliuoti "Full"
+Visual studio intaliuoti ir paleidus programą bus nurodomi reikalingi papildomi failai kuriuos pats"Visual Studio" instaliuos, jums tik reikės paspausti "install"
+Instaliuojant "mysql-for-visualstudio-2.0.5" pasirinkite "Typical" 
